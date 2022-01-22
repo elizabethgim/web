@@ -1,0 +1,59 @@
+
+body{
+    clear: both;
+    color:#63585E;
+    background-color:#C4DACF;
+    /* 
+    color:#4A6670;
+    background-color:#D6A2AD; 
+    */
+    font-size: 30px;
+    font-family: 'Sedgwick Ave', 'Nanum Gothic Coding', monospace;
+}
+div{
+    text-align: center;
+    margin: 10 0 0 10;
+}
+.home{
+    width: 20px;
+    height: 20px;
+    color:#668F80;
+    float: left;
+}
+.hello{
+    font-family: 'Sedgwick Ave', cursive;
+    color:#668F80;
+}
+.hello h1{
+    text-align: center;
+    color: #4A6670;
+    font-size:50px;
+    border-bottom: 5px solid #63585E;
+}
+.hello a{
+    color:#668F80;
+    text-decoration: none;
+}
+.hello a:hover{
+    color:#4D6A72;
+    font-size: 35px;
+}
+.hello li{
+    color:#668F80;
+    font-size: 30px;
+    display: inline;
+    padding: 40px;
+    float: left;
+}
+.hello li:hover{
+    color:#4D6A72;
+}
+
+.hobby{
+    color:palevioletred;
+    list-style-type: none;
+}
+
+div{
+    clear: both;
+}
