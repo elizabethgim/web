@@ -35,8 +35,7 @@ div{
     text-decoration: none;
 }
 .hello a:hover{
-    color:#4D6A72;
-    font-size: 35px;
+    color:#C3B59F;
 }
 .hello li{
     color:#668F80;
@@ -53,7 +52,10 @@ div{
     color:palevioletred;
     list-style-type: none;
 }
-
+.hobby li{
+    display: inline;
+    padding: 40px;
+}
 div{
     clear: both;
 }
