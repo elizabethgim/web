@@ -1,0 +1,26 @@
+body{
+    background-color: #F6C28B;
+    color: #5296A5;
+}
+a {
+    color:#5296A5;
+    text-decoration: none;
+}
+a:hover{
+    color: #384D48;
+}
+
+h1{
+    font-size: 50;
+}
+
+h2{
+    font-size: 40;
+}
+
+#mid{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
