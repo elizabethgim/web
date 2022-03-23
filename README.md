@@ -1,0 +1,1 @@
+[원본 코드](https://www.youtube.com/watch?v=Y2ec4KQ7mP8&t=979s)
